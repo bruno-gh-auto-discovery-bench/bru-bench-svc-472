@@ -1,0 +1,6 @@
+info:
+  name: get 9
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/reporting-staging-3/9
